@@ -237,7 +237,7 @@ dev.off()
 
 Tendencia: La tendencia moderna muestra una concentración de las victorias. El campo se reduce a un puñado de equipos de élite, evidenciando una menor estabilidad.
 
-5. Conclusiones e Implicaciones (La Tesis Final)
+5. Conclusiones e Implicaciones
 El análisis combinado de ambas métricas revela la naturaleza dual de la F1 moderna:
 
 Competitividad Extrema (Intensidad Alta): La convergencia tecnológica ha hecho que las carreras se ganen por márgenes mínimos (ej. menos de 10 segundos en promedio), lo que demuestra la alta competencia técnica.
@@ -245,5 +245,6 @@ Competitividad Extrema (Intensidad Alta): La convergencia tecnológica ha hecho 
 Baja Estabilidad (Concentración de Éxito): A pesar de la alta intensidad, la diversidad de ganadores es baja (rara vez supera los 4 o 5 equipos por año). Esto sugiere que solo un puñado de equipos de élite tiene la capacidad de luchar por esas victorias estrechas.
 
 El proyecto concluye que la F1 ha evolucionado desde ser desigual y diversa a ser intensa y concentrada.
+
 
 
